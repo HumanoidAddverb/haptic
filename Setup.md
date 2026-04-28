@@ -8,7 +8,7 @@ This guide walks you through setting up the Haptic ROS2 workspace and building t
 
 Ensure the following are installed:
 
-- ROS2 (e.g., Humble / Foxy)
+- ROS2
 - colcon build tools
 - Git
 
@@ -20,7 +20,7 @@ Ensure the following are installed:
 
 ```bash
 git clone git@github.com:HumanoidAddverb/haptic.git
-cd hatic
+cd haptic
 ```
 
 ---
